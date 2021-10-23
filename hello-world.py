@@ -1,2 +1,2 @@
-print ("Hello, Caleb! Have a nice day.")
+print ("Hello, Caleb! Have a wonderful day.")
 
